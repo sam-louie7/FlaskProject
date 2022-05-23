@@ -1,0 +1,8 @@
+
+# project files
+__pycache__/*
+.vscode/*
+# ios
+.DS_Store
+
+
